@@ -18,6 +18,20 @@ To install WindowManager, you need XCBKit installed on your system.
 - xcb-icccm
 - gnustep-base
 
+#### Revised list on Debian Trixie
+- libxcb1-dev
+- libxcb1
+- libxcb-xfixes0
+- libxcb-icccm4
+- libxcb-icccm4-dev
+- libxcb-cursor-dev
+- libxcb-shape0-dev
+- libxcb-randr0-dev
+- libxcb-util-dev
+- libxcb-damage0-dev
+- libxcb-present-dev
+- libxcb-composite0-dev
+
 ### WindowManager Dependencies
 - XCBKit
 
